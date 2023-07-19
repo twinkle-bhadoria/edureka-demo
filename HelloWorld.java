@@ -6,6 +6,6 @@ class HelloWorld {
 	// Prints "Hello Edureka" to the terminal windows
 	public static void main(String args[])
 	{
-		System.out.println("Hello Edureka!!!");
+		System.out.println("Welcome to Git's Online Training!!");
 	}
 }
